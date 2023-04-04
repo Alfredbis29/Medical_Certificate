@@ -93,8 +93,8 @@ In the project directory, you can run:
 
 👤 **Alfred Bisimwa**
 
-- GitHub: [@SekoViper](https://github.com/Alfredbis29)
-- LinkedIn: [Livingstone dameh](https://www.linkedin.com/in/Alfredbisimwa/)
+- GitHub: [@Alfredbis29](https://github.com/Alfredbis29)
+- LinkedIn: [Alfred Bisimwa](https://www.linkedin.com/in/Alfredbisimwa/)
 
 ## Future Feature
 
