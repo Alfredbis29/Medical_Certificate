@@ -14,7 +14,7 @@ module MedicalCertificate
     config.after_initialize do
       Bullet.enable = true
       Bullet.bullet_logger = true
-      Bullet.raise = true # raise an error if N+1 query or unused eager loading is detected
+      Bullet.raise = true 
     end
 
     # Configuration for the application, engines, and railties goes here.
