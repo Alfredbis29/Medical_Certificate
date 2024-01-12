@@ -15,6 +15,16 @@ gem "pg", "~> 1.1"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
+#other necesary gem to use
+gem 'devise'
+gem 'pundit'
+gem 'bootstrap', '~> 4.6'
+gem 'font-awesome-sass'
+gem 'simple_form'
+gem 'cocoon'
+gem 'prawn'
+gem 'wicked_pdf'
+gem 'wkhtmltopdf-binary'
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
@@ -43,6 +53,8 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 
 # Use Sass to process CSS
+gem 'bootstrap-sass'
+
 # gem "sassc-rails"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
